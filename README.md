@@ -1,7 +1,10 @@
-# telegram
-电报群发采集软件 、telegram电报营销软件开发，群管聊天bot开发维护 。 有完善成品供测试
+# telegram telegram_bot下单开发
+* 1. 10个出整套源码 * 
+* 2. 机器人下单商城源码，后台配置添加无限BOT，回复配置，聊天管理，商品管理，后台功能齐全 *
 
-## 联系：[电报](https://t.me/AllenHi)  ✈@AllenHi  500/1年
+电报群发采集软件 、telegram电报营销软件开发，群管聊天bot开发维护 。 有完善成品供测试 
+
+## 联系：[电报](https://t.me/AllenHi)  ✈@AllenHi  1000/1年
  
 ![图片说明](/1.png)
 ![图片说明](/2.png)
